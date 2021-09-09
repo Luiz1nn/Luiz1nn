@@ -17,11 +17,12 @@
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img height:"50em" align="right" alt="Rafa-yoda" src="https://cdn.discordapp.com/attachments/750895936074678363/879494594558066688/Webp.net-resizeimage.gif">
 </div>
-</div>
+<br>
 
-##
-
-<div>
+<div align="center">
   <a href="https://instagram.com/eoluizinn_rs" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/luis-fernando-d-088b7011b" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/luis-fernando-d-088b7011b" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  
+    ![Snake animation](https://github.com/ellen2121/Luiz1nn/blob/output/github-contribution-grid-snake.svg)
+
 </div>
