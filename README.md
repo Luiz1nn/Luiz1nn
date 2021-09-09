@@ -23,6 +23,6 @@
   <a href="https://instagram.com/eoluizinn_rs" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/luis-fernando-d-088b7011b" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   
-    ![Snake animation](https://github.com/ellen2121/Luiz1nn/blob/output/github-contribution-grid-snake.svg)
+    ![Snake animation](https://github.com/Luiz1nn/Luiz1nn/blob/output/github-contribution-grid-snake.svg)
 
 </div>
