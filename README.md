@@ -7,7 +7,7 @@
 <div>
   <a href="https://github.com/Luiz1nn">
   <img height="180em"   align="center" src="https://github-readme-stats.vercel.app/api?username=Luiz1nn&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em"  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eLuiz1nn&&layout=compact&hide=shell&theme=dark"/>
+  <img height="180em"  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luiz1nn&&layout=compact&hide=shell&theme=dark"/>
 
   <img align="center" width="148" height="180" src="https://cdn.discordapp.com/attachments/750895936074678363/879494594558066688/Webp.net-resizeimage.gif">
 </div>
