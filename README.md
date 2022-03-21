@@ -1,7 +1,7 @@
 ### Olá! Eu sou o Luiz1nn  🤪
 
-- 🏫 Atualmente faço Análise e Desenvolviment de Sistemas(ADS) - 2° periodo
-- 👨‍🎓 Estudando Angular e C#
+- 🏫 Atualmente faço Análise e Desenvolviment de Sistemas(ADS) - 3° periodo
+- 👨‍🎓 Foco em Angular e C#
 - 🔊  Contate-me: luisfernandobr2003@gmail.com
 
 <div>
