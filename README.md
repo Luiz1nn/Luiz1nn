@@ -4,7 +4,7 @@
 - 👨‍🎓 Foco em Fron-End | Angular | Typescript | Javascript
 - 🔊  Contate-me: manda dm [@eoluizinn_rs](https://www.instagram.com/eoluizinn_rs/")
 
-<div align="left">
+<div align="center">
         <a href="luisfernandobr2003@gmail.com" target="_blank">
             <img alt="Gmail"src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">            
         </a>
