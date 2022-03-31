@@ -40,5 +40,7 @@
  <br/>
  
 <div  align="center">
+ 
   ![Snake animation](https://github.com/Luiz1nn/Luiz1nn/blob/output/github-contribution-grid-snake.svg)
+ 
 </div>
