@@ -9,7 +9,7 @@
 
 |  **PROPRIEDADES** | **TECNOLOGIAS** |
 | :---------        |     :---------  |
-|**Linguagem / IDE** | <img align="center" alt="TYPESCRIPT" height="30" src="https://img.shields.io/badge/TypeScript-3178C6?logo=TypeScript&logoColor=FFF&style=flat-square"> <img align="center" alt="VSCODE" height="30" src="https://img.shields.io/badge/VSCode-blue?&style=for-the-badge&logo=visual-studio&logoColor=white"> |
+|**Linguagem / IDE** | <img align="center" alt="TYPESCRIPT" height="30" src="https://img.shields.io/badge/TypeScript-3178C6?logo=TypeScript&logoColor=FFF&style=flat-square"> <img align="center" alt="TYPESCRIPT" height="30" src="https://shields.io/badge/JavaScript-F7DF1E?logo=JavaScript&logoColor=000&style=flat-square"> <img align="center" alt="TYPESCRIPT" height="30" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"> <img align="center" alt="VSCODE" height="30" src="https://img.shields.io/badge/VSCode-blue?&style=for-the-badge&logo=visual-studio&logoColor=white"> |
  | **Style** |  <img align="center" alt="PANDAS" height="30" src="https://img.shields.io/badge/bootstrap-cc0066?&style=for-the-badge&logo=bootstrap&logoColor=white"> <img align="center" alt="CSS" height="30" src="https://img.shields.io/badge/css-007ACC?style=for-the-badge&logo=css3&logoColor=white"> |
 
 </div>
