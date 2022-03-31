@@ -5,12 +5,13 @@
 - 🔊  Contate-me: manda dm [@eoluizinn_rs](https://www.instagram.com/eoluizinn_rs/")
 
 <h2 align="center">Linguagens e ferramentas:</h2>
-<div style="display: inline-block;" align="center">
+<div style="display: inline_block;" align="center">
+
 |  **PROPRIEDADES** | **TECNOLOGIAS** |
 | :---------        |     :---------  |
 |**Linguagem / IDE** | <img align="center" alt="TYPESCRIPT" height="30" src="https://img.shields.io/badge/TypeScript-3178C6?logo=TypeScript&logoColor=FFF&style=flat-square"> <img align="center" alt="VSCODE" height="30" src="https://img.shields.io/badge/VSCode-blue?&style=for-the-badge&logo=visual-studio&logoColor=white"> |
  | **Style** |  <img align="center" alt="PANDAS" height="30" src="https://img.shields.io/badge/bootstrap-cc0066?&style=for-the-badge&logo=bootstrap&logoColor=white"> <img align="center" alt="CSS" height="30" src="https://img.shields.io/badge/css-007ACC?style=for-the-badge&logo=css3&logoColor=white"> |
-|**Os** | <img align="center" alt="Windows" height="30" src="https://img.shields.io/badge/windows-862d59?style=for-the-badge&logo=windows&logoColor=white"> | 
+
 </div>
 <div>
   <a href="https://github.com/Luiz1nn">
