@@ -2,7 +2,7 @@
 
 - 🏫 Atualmente faço Análise e Desenvolviment de Sistemas(ADS) - 3° periodo
 - 👨‍🎓 Foco em Fron-End | ANgular | Typescript | Javascript
-- 🔊  Contate-me: [@eoluizinn_rs](href="https://www.instagram.com/eoluizinn_rs/")
+- 🔊  Contate-me: [@eoluizinn_rs](https="https://www.instagram.com/eoluizinn_rs/")
 
 <div>
   
