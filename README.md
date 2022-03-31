@@ -9,7 +9,7 @@
 | :---------        |     :---------  |
 |**Linguagem / IDE** | <img align="center" alt="TYPESCRIPT" height="30" src="https://img.shields.io/badge/TypeScript-3178C6?logo=TypeScript&logoColor=FFF&style=flat-square"> <img align="center" alt="VSCODE" height="30" src="https://img.shields.io/badge/VSCode-blue?&style=for-the-badge&logo=visual-studio&logoColor=white"> |
  | **Style** |  <img align="center" alt="PANDAS" height="30" src="https://img.shields.io/badge/bootstrap-cc0066?&style=for-the-badge&logo=bootstrap&logoColor=white"> <img align="center" alt="CSS" height="30" src="https://img.shields.io/badge/css-007ACC?style=for-the-badge&logo=css3&logoColor=white"> |
-|**Os** | <img align="center" alt="Windows" height="30" src="https://img.shields.io/badge/windows-862d59?style=for-the-badge&logo=windows&logoColor=white">  
+|**Os** | <img align="center" alt="Windows" height="30" src="https://img.shields.io/badge/windows-862d59?style=for-the-badge&logo=windows&logoColor=white"> | 
 <div>
   <a href="https://github.com/Luiz1nn">
   <img width="400em" align="center" src="https://github-readme-stats.vercel.app/api?username=Luiz1nn&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
