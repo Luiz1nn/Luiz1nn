@@ -1,6 +1,6 @@
 <h1>Olá! Eu sou o Luis Fernando || Luiz1nn 🤪</h1>
 
-- 🏫 Atualmente faço Análise e Desenvolviment de Sistemas(ADS) - 3° periodo
+- 🏫 Atualmente faço Análise e Desenvolvimento de Sistemas(ADS) - 3° periodo
 - 👨‍🎓 Foco em Fron-End | Angular | Typescript | Javascript
 - 🔊  Contate-me: manda dm [@eoluizinn_rs](https://www.instagram.com/eoluizinn_rs/")
 
