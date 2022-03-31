@@ -8,7 +8,8 @@
 
 |  **PROPRIEDADES** | **TECNOLOGIAS** |
 | :---------        |     :---------  |
-|**Linguagem / IDE** | <img align="center" alt="VSCODE" height="30" src="https://img.shields.io/badge/VSCode-blue?&style=for-the-badge&logo=visual-studio&logoColor=white">
+|**Linguagem / IDE** | <img align="center" alt="TYPESCRIPT" height="30" src="https://shields.io/badge/TypeScript-3178C6?logo=TypeScript&logoColor=FFF&style=flat-square">
+<img align="center" alt="VSCODE" height="30" src="https://img.shields.io/badge/VSCode-blue?&style=for-the-badge&logo=visual-studio&logoColor=white">
 
 <div style="display: inline_block;" align="center">
   
