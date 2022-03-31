@@ -4,6 +4,25 @@
 - 👨‍🎓 Foco em Fron-End | Angular | Typescript | Javascript
 - 🔊  Contate-me: manda dm [@eoluizinn_rs](https://www.instagram.com/eoluizinn_rs/")
 
+<div align="left">
+        <a href="luisfernandobr2003@gmail.com" target="_blank">
+            <img alt="Gmail"src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">            
+        </a>
+        <a href="https://www.linkedin.com/in/luis-fernando-s-088b7011b/" target="_blank">
+            <img alt="Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+        </a>
+        <a href="https://www.instagram.com/eoluizinn_rs/?utm_medium=copy_link" target="_blank">
+            <img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+        </a>
+        <a href="https://github.com/Luiz1nn" target="_blank">
+            <img alt="Github" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
+        </a>
+        <a href="https://api.whatsapp.com/send?phone=63992620112" target="_blank">
+            <img alt="Whatsapp" src="https://img.shields.io/badge/whatsapp-04B404?style=for-the-badge&logo=whatsapp&logoColor=white">
+        </a>
+</div>
+
+
 <h2 align="center">Linguagens e ferramentas:</h2>
 <div style="display: inline_block;" align="center">
 
@@ -19,8 +38,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luiz1nn&&layout=compact&hide=shell&theme=dark"/>
 </div>
  <br>
+ 
 <div  align="center">
-  <a href="https://www.instagram.com/eoluizinn_rs?utm_medium=copy_link" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/luis-fernando-s-088b7011b" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   ![Snake animation](https://github.com/Luiz1nn/Luiz1nn/blob/output/github-contribution-grid-snake.svg)
 </div>
