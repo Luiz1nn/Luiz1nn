@@ -13,7 +13,7 @@
  | **Style** |  <img align="center" alt="PANDAS" height="30" src="https://img.shields.io/badge/bootstrap-cc0066?&style=for-the-badge&logo=bootstrap&logoColor=white"> <img align="center" alt="CSS" height="30" src="https://img.shields.io/badge/css-007ACC?style=for-the-badge&logo=css3&logoColor=white"> |
 
 </div>
-<div>
+<div style="display: inline_block" align="center">
   <a href="https://github.com/Luiz1nn">
   <img width="385em" align="center" src="https://github-readme-stats.vercel.app/api?username=Luiz1nn&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img width="320em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luiz1nn&&layout=compact&hide=shell&theme=dark"/>
