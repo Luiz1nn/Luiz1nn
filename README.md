@@ -5,8 +5,14 @@
 - 🔊  Contate-me: manda dm [@eoluizinn_rs](https://www.instagram.com/eoluizinn_rs/")
 
 <h2 align="center">Linguagens e ferramentas:</h2>
-<div style="display: inline_block;" align="center">
 
+|  **PROPRIEDADES** | **TECNOLOGIAS** |
+| :---------        |     :---------  |
+|**Linguagem / IDE** | <img align="center" alt="VSCODE" height="30" src="https://img.shields.io/badge/VSCode-blue?&style=for-the-badge&logo=visual-studio&logoColor=white">
+
+<div style="display: inline_block;" align="center">
+  
+</div>
 <div>
   <a href="https://github.com/Luiz1nn">
   <img width="400em" align="center" src="https://github-readme-stats.vercel.app/api?username=Luiz1nn&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
