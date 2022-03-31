@@ -1,8 +1,8 @@
-### Olá! Eu sou o Luiz1nn  🤪
+<h1>Olá! Eu sou o Luis Fernando || Luiz1nn 🤪</h1>
 
 - 🏫 Atualmente faço Análise e Desenvolviment de Sistemas(ADS) - 3° periodo
-- 👨‍🎓 Foco em Angular e C#
-- 🔊  Contate-me: luisfernandobr2003@gmail.com
+- 👨‍🎓 Foco em Fron-End | ANgular | Typescript | Javascript
+- 🔊  Contate-me: [@eoluizinn_rs](href="https://www.instagram.com/eoluizinn_rs/")
 
 <div>
   
