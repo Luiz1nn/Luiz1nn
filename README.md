@@ -5,8 +5,7 @@
 - 🔊  Contate-me: manda dm [@eoluizinn_rs](https://www.instagram.com/eoluizinn_rs/")
 
 <h2 align="center">Linguagens e ferramentas:</h2>
-
-<div style="display: inline_block;" align="center">
+<div style="display: inline_block;" aling="center">
 |  **PROPRIEDADES** | **TECNOLOGIAS** |
 | :---------        |     :---------  |
 |**Linguagem / IDE** | <img align="center" alt="TYPESCRIPT" height="30" src="https://img.shields.io/badge/TypeScript-3178C6?logo=TypeScript&logoColor=FFF&style=flat-square"> <img align="center" alt="VSCODE" height="30" src="https://img.shields.io/badge/VSCode-blue?&style=for-the-badge&logo=visual-studio&logoColor=white"> |
