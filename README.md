@@ -4,7 +4,7 @@
 - 👨‍🎓 Foco em Fron-End | ANgular | Typescript | Javascript
 - 🔊  Contate-me: manda dm [@eoluizinn_rs](https://www.instagram.com/eoluizinn_rs/")
 
-<h1 align="center">Linguagens e ferramentas:</h1>
+<h2 align="center">Linguagens e ferramentas:</h2>
 <div style="display: inline_block;" align="center">
 
 <div>
