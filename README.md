@@ -17,9 +17,6 @@
         <a href="https://github.com/Luiz1nn" target="_blank">
             <img alt="Github" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
         </a>
-        <a href="https://api.whatsapp.com/send?phone=63992620112" target="_blank">
-            <img alt="Whatsapp" src="https://img.shields.io/badge/whatsapp-04B404?style=for-the-badge&logo=whatsapp&logoColor=white">
-        </a>
 </div>
 
 
