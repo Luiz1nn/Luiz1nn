@@ -2,7 +2,7 @@
 <h1>Olá! Eu sou o Luis Fernando || Luiz1nn 💤</h1>
 
 - 🏫 Atualmente faço Análise e Desenvolvimento de Sistemas(ADS) - 5° periodo
-- 👨‍🎓 Trabalho com Angular | React | Node.js | C#
+- 👨‍🎓 Trabalho com Angular | React | Next.Js | Node.Js 
 - 🔊  Contate-me: manda dm [@eoluizinn_rlx](https://www.instagram.com/eoluizinn_rlx/)
 
 <div align="center">
