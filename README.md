@@ -1,9 +1,9 @@
 
-<h1>Olá! Eu sou o Luis Fernando || Luiz1nn 🤪</h1>
+<h1>Olá! Eu sou o Luis Fernando || Luiz1nn 💤</h1>
 
 - 🏫 Atualmente faço Análise e Desenvolvimento de Sistemas(ADS) - 5° periodo
 - 👨‍🎓 Trabalho com Angular | React | Node.js | C#
-- 🔊  Contate-me: manda dm [@eoluizinn_rs](https://www.instagram.com/eoluizinn_rs/")
+- 🔊  Contate-me: manda dm [@eoluizinn_rlx](https://www.instagram.com/eoluizinn_rslx/")
 
 <div align="center">
         <a href="luisfernandobr2003@gmail.com" target="_blank">
