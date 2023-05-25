@@ -2,7 +2,7 @@
 <h1>Olá! Eu sou o Luis Fernando || Luiz1nn 💤</h1>
 
 - 🏫 Atualmente faço Análise e Desenvolvimento de Sistemas(ADS) - 5° periodo
-- 👨‍🎓 Trabalho com Angular | React | Next.Js | Node.Js 
+- 👨‍🎓 Trabalho com Angular | React | Next.Js | Nest.Js | Node.Js 
 - 🔊  Contate-me: manda dm [@eoluizinn_rlx](https://www.instagram.com/eoluizinn_rlx/)
 
 <div align="center">
@@ -31,4 +31,5 @@
   <img align="center" alt="Next.Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg">
   <img align="center" alt="Angular" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg">
   <img align="center" alt="Node.Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
+  <img align="center" alt="Node.Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg">
 </div
