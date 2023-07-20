@@ -1,6 +1,6 @@
 # Hello! I'm Luis Fernando || Luiz1nn 💤
 
-## Front-End Developer | Web | Mobile
+### **Front-End Developer | Web | Mobile**
 
 - 👨‍💻 I am currently doing Systems Analysis and Development (ADS) - 6th period
 - 💻 Working with React.js | React Native | Next.Js | Node.js
