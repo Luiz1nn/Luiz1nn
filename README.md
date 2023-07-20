@@ -2,7 +2,7 @@
 
 ### **Front-End Developer | Web | Mobile**
 
-- 👨‍💻 I am currently doing Systems Analysis and Development (ADS) - 6th period
+- 👨‍💻 I am currently studying Systems Analysis and Development (ADS) at the Federal Institute of Tocantis (IFTO) - 6th period
 - 💻 Working with React.js | React Native | Next.Js | Node.js
 - 🔊 Contact me: send dm [@eoluizinn_rlx](https://www.instagram.com/eoluizinn_rlx/)
 <br/>
