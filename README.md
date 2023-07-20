@@ -3,7 +3,7 @@
 ### **Front-End Developer | Web | Mobile**
 
 - 🎓 I am currently studying Systems Analysis and Development (ADS) at the Federal Institute of Tocantis (IFTO) - 6th period
-- 👨‍💻 I currently work at Instituto Federal do Norte do Tocantins as a Full Stack Developer
+- 👨‍💻 I currently work at the Federal University of North Tocantins (UFNT) as a Full Stack Developer
 - 💻 Working with React.js | React Native | Next.Js | Node.js
 - 🔊 Contact me: send dm [@eoluizinn_rlx](https://www.instagram.com/eoluizinn_rlx/)
 <br/>
