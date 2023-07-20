@@ -14,9 +14,6 @@
  <br/>
 
 <div align="center" style="display: inline_block"><br>
-  <a style="margin-left: 1rem;" href="https://www.linkedin.com/in/luis-fernando-s/" target="_blank">
-    <img align="center" alt="Node.Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/linkedin/linkedin-original.svg">
-  </a>
   <img align="center" alt="Node.Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg">
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
