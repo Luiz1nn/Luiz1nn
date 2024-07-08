@@ -1,6 +1,6 @@
 # Hello! I'm Luis Fernando || Luiz1nn 💤
 
-### **Front-End Developer | Web | Mobile**
+### **Full Stack Developer**
 
 - 🎓 I am currently studying Systems Analysis and Development (ADS) at the Federal Institute of Tocantis (IFTO) - 6th period
 - 👨‍💻 I currently work at the Federal University of North Tocantins (UFNT) as a Full Stack Developer
