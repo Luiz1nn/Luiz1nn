@@ -2,10 +2,9 @@
 
 ### **Full Stack Developer**
 
-- 🎓 I am currently studying Systems Analysis and Development (ADS) at the Federal Institute of Tocantis (IFTO) - 6th period
+- 🎓 Studtied Systems Analysis and Development (ADS) at the Federal Institute of Tocantis (IFTO)
 - 👨‍💻 I currently work at the Federal University of North Tocantins (UFNT) as a Full Stack Developer
-- 💻 Working with React.js | React Native | Next.Js | Angular | Node.js
-- 🔊 Contact me: send dm [@eoluizinn_rlx](https://www.instagram.com/eoluizinn_rlx/)
+- 💻 Working with React.js | C# | Next.Js | Angular | Python | Node.js
 <br/>
 
 <div align="center"><br>
