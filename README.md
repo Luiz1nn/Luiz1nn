@@ -4,7 +4,7 @@
 
 - 🎓 Studtied Systems Analysis and Development (ADS) at the Federal Institute of Tocantis (IFTO)
 - 👨‍💻 I currently work at the Federal University of North Tocantins (UFNT) as a Full Stack Developer
-- 💻 Working with React.js | C# | Next.Js | Angular | Python | Node.js
+- 💻 Working with React.js | Go | Next.Js | Angular | Python | Node.js
 <br/>
 
 <div align="center"><br>
