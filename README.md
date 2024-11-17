@@ -2,8 +2,8 @@
 
 ### **Full Stack Developer**
 
-- 🎓 Studtied Systems Analysis and Development (ADS) at the Federal Institute of Tocantis (IFTO)
-- 👨‍💻 I currently work at the Federal University of North Tocantins (UFNT) as a Full Stack Developer
+- 🎓 Graduated in Systems Analysis and Development (ADS) at the Federal Institute of Tocantins (IFTO)
+- 👨‍💻 I currently work at the INOV.AI as a Full Stack Developer
 - 💻 Working with React.js | Go | Next.Js | Angular | Python | Node.js
 <br/>
 
