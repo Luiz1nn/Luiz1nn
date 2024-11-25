@@ -1,6 +1,10 @@
-# Hello! I'm Luis Fernando || Luiz1nn 💤
+## Hello! I'm Luis Fernando
 
-### **Full Stack Developer**
+#### About Me
+
+I'm just a laid-back dude who decided to become a "software bricklayer" – building one line of code at a time.
+
+#### **Full Stack Developer**
 
 - 🎓 Graduated in Systems Analysis and Development (ADS) at the Federal Institute of Tocantins (IFTO)
 - 👨‍💻 I currently work at the INOV.AI as a Full Stack Developer
