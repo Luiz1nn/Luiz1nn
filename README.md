@@ -1,15 +1,18 @@
-## Hello! I'm Luis Fernando
+## Hello, I'm Luis Fernando 👋
 
-#### About Me
+Full Stack Software Engineer focused on building scalable and high-performance applications.
 
-I'm just a laid-back dude who decided to become a "software bricklayer" – building one line of code at a time.
+### 🚀 About Me
+- 🎓 Systems Analysis and Development @ IFTO
+- 👨‍💻 Full Stack Developer at INOV.AI
+- ⚡ Experience building real-world systems with modern architectures
 
-#### **Full Stack Developer**
+### 💻 Tech Stack
+React.js | Next.js | Angular  
+Node.js | Go | Python  
+Docker | Google Cloud (GCP)
 
-- 🎓 Graduated in Systems Analysis and Development (ADS) at the Federal Institute of Tocantins (IFTO)
-- 👨‍💻 I currently work at the INOV.AI as a Full Stack Developer
-- 💻 Working with React.js | Go | Next.Js | Angular | Python | Node.js | GCP
-<br/>
+---
 
 <div align="center"><br>
   <img align="center" alt="React.js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
@@ -20,4 +23,4 @@ I'm just a laid-back dude who decided to become a "software bricklayer" – buil
   <img align="center" alt="Angular" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg">
   <img align="center" alt="Node.Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
   <img align="center" alt="GCP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg">
-</div
+</div>
