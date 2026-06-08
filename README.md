@@ -1,6 +1,6 @@
 ## Hello, I'm Luis Fernando 👋
 
-Full Stack Software Engineer focused on building scalable and high-performance applications.
+Full Stack Engineer focused on building scalable and high-performance applications.
 
 ### 🚀 About Me
 - 🎓 Systems Analysis and Development @ IFTO
